@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o(a) Seu Nome 👋</h1>
+<h1 align="center">Olá, eu sou o Victor Carlos 👋</h1>
 
 <p align="center">
-  Desenvolvedor(a) apaixonado(a) por tecnologia, sempre aprendendo algo novo.
+  Estudante de Ciência da Computação, apaixonado por tecnologia e sempre aprendendo algo novo.
 </p>
 
 <p align="center">
@@ -20,32 +20,37 @@
 
 ### 🚀 Sobre mim
 
-- 🔭 Atualmente trabalhando em: **nome do projeto**
-- 🌱 Aprendendo: **tecnologia/ferramenta**
-- 👯 Procurando colaborar em: **tipo de projeto**
-- 💬 Me pergunte sobre: **assuntos de domínio**
-- ⚡ Curiosidade: algo pessoal e divertido sobre você
+- 🎓 Cursando o 4º semestre de **Ciência da Computação** na Faculdade Impacta
+- 🛠️ Formado em **Desenvolvimento de Sistemas** (técnico) pela Etec JK, em Diadema
+- 💼 Atualmente na **TOTVS S.A.**, a maior empresa de tecnologia do Brasil
+- 🌱 Sempre buscando aprender novas tecnologias e ferramentas
+- 👯 Aberto a colaborar em projetos interessantes
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter%20Flow-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=white" />
 </p>
 
 ---
 
 ### 📌 Projetos em destaque
 
-- **[Nome do Projeto 1](https://github.com/seu-usuario/projeto1)** — breve descrição do que ele faz.
-- **[Nome do Projeto 2](https://github.com/seu-usuario/projeto2)** — breve descrição do que ele faz.
-- **[Nome do Projeto 3](https://github.com/seu-usuario/projeto3)** — breve descrição do que ele faz.
+- **Eleven 10** — TCC do curso técnico (Etec JK): um app que funcionava como um "LinkedIn do futebol".
+- **Sabor Local** — Projeto Integrador (Faculdade Impacta): app de delivery para um restaurante, desenvolvido com ferramentas no/low-code.
 
 ---
 
